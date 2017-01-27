@@ -29,4 +29,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Team collaboration is possible when each team memer uses separate branch for each
+    feature/bug fix.
